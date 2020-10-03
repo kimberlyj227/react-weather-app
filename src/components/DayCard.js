@@ -3,7 +3,7 @@ import { Card, CardHeader, CardBody } from "reactstrap";
 import styled from "styled-components";
 
 const gray = "rgba(0,0,0,.125)";
-const teal = "teal";
+const teal = "#038C8C";
 const border = `2px solid ${gray}`
 const tealBorder = `2px solid ${teal}`
 const DayWrapper = styled.article`

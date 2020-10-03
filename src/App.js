@@ -48,8 +48,8 @@ function App() {
 
   return (
     <Container>
-      <Row>
-        <Col md={8} sm={6}>
+      <Row className="my-4 p-4 bg-primary text-light">
+        <Col md={8} sm={6} >
           <h1>Weather for {location}</h1>
         </Col>
         <Col md={4} sm={6}>

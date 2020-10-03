@@ -5,7 +5,7 @@ import styled from "styled-components";
 const DetailsWrapper = styled(Card)`
   text-align: center;
   margin: 15px 0;
-  border: 2px solid teal;
+  border: 2px solid #038C8C;
 
 `
 
