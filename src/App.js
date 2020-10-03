@@ -42,7 +42,7 @@ function App() {
 
   const handleFormSubmit = e => {
     e.preventDefault();
-    getWeather(location);
+    getWeather(searchTerm);
   }
 
 
